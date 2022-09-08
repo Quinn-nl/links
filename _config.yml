@@ -79,14 +79,6 @@ links:
     Color: '#9147fe'
     Text_Color: '#ffffff'
 
-    # VIMEO
-  - Name: Vimeo
-    URL: 'https://vimeo.com'
-    Username: harshtrivedi
-    Icon-Class: fab fa-vimeo-v
-    Color: '#1ab7ea'
-    Text_Color: '#ffffff'
-
     # MESSENGER
   - Name: Messenger
     URL: https://m.me
@@ -242,7 +234,7 @@ links:
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+footer: ''
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
